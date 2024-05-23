@@ -1,0 +1,1 @@
+pip install labelimg -i https://mirror.baidu.com/pypi/simple

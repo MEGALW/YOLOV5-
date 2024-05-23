@@ -1,0 +1,1 @@
+python detect.py --weights pretrained/yolov5s.pt --source data/images/bus.jpg
